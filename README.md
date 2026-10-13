@@ -55,7 +55,7 @@ The report uses a dimensional modelling approach with:
 
 There are other dimension table like dim_location, ,dim_businessunit, dimprogramme which are connect to FactProjectMonthly
 
-  
+<img width="842" height="728" alt="image" src="https://github.com/user-attachments/assets/32280b01-ed3d-4fb3-aea5-1a6cd899093b" />
 
 The supplied workbook schema also lists keys for programme, business unit, location, delivery model, strategic theme, project manager, and sponsor. Include those dimensions in the published model only when the corresponding columns are present in the loaded query and the relationships have been validated.
 
